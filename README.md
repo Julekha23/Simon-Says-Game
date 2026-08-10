@@ -66,8 +66,6 @@ Remember the sequence and reproduce it correctly for as many levels as possible.
 **Can you beat your highest score? 🏆**
 
 ## 👨‍💻 Author
-
-**Your Name**
 Mosammat Julekha Molla
 ---
 
