@@ -65,6 +65,9 @@ Remember the sequence and reproduce it correctly for as many levels as possible.
 
 **Can you beat your highest score? 🏆**
 
+**Demo**
+https://cute-chebakia-e3b29f.netlify.app/
+
 ## 👨‍💻 Author
 Mosammat Julekha Molla
 ---
